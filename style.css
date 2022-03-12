@@ -1,0 +1,31 @@
+.inner
+{
+  background-color: white;
+  height : 50px;
+  width : 50px;
+  top : 20%;
+  left : 20%;
+  border-radius: 50%;
+  position : relative;
+  
+}
+.middle
+{
+  background-color: blue;
+  height : 80px;
+  width : 80px;
+  left : 10%;
+  top : 10%;
+  border-radius: 50%;
+  position : relative;
+
+}
+.outer
+{
+  background-color: black;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  position : relative;
+   
+}
